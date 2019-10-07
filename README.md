@@ -3,11 +3,11 @@ Cisco Press CCNA CyberOps Books and Video Courses supplemental information and a
 
 Congratulations! If you are reading this, you have in your possession a powerful tool that can help you to:
 
-* Improve your awareness and knowledge of cyber security fundamentals
+* Improve your awareness and knowledge of cybersecurity fundamentals
 * Increase your skill level related to the implementation of that security
 * Prepare for the CCNA Cyber Ops SECFND certification exam
 
-Whether you are preparing for the CCNA Cyber Ops certification or just changing careers to cyber security, this book will help you gain the knowledge you need to get started and prepared. When writing this book, we did so with you in mind, and together we will discover the critical ingredients that make up the recipe for a secure network and how to succeed in cyber security operations. By focusing on covering the objectives for the CCNA Cyber Ops SECFND exam and integrating that with real-world best practices and examples, we created this content with the intention of being your personal tour guides as we take you on a journey through the world of network security.
+Whether you are preparing for the CCNA Cyber Ops certification or just changing careers to cybersecurity, this book will help you gain the knowledge you need to get started and prepared. When writing this book, we did so with you in mind, and together we will discover the critical ingredients that make up the recipe for a secure network and how to succeed in cybersecurity operations. By focusing on covering the objectives for the CCNA Cyber Ops SECFND exam and integrating that with real-world best practices and examples, we created this content intending to be your personal tour guides as we take you on a journey through the world of network security.
 
 The CCNA Cyber Ops: Understanding Cisco Cybersecurity Fundamentals (SECFND) 210-250 exam is required for the CCNA Cyber Ops certification. This book covers all the topics listed in Cisco’s exam blueprint, and each chapter includes key topics and preparation tasks to assist you in mastering this information. Reviewing tables and practicing test questions will help you practice your knowledge in all subject areas.
 
